@@ -11,7 +11,8 @@ Redis config and service file are attached with this script. This script will co
 Redis Server will start on the port 9000
 
 MySQL:
-This script accepts the admin password on the console inorder to run the query
+This script accepts the admin password on the console inorder to run the query. 
+
 Admin password will be copied in ~/.my.cnf file.
 
 Script Usage: chmod +x query_logo.sh
