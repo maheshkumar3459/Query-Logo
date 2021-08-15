@@ -15,7 +15,8 @@ This script accepts the admin password on the console inorder to run the query.
 
 Admin password will be copied in ~/.my.cnf file. 
 
-Script Usage: chmod +x query_logo.sh
+Script Usage: Copy the config folder and script on the same folder. 
+              chmod +x query_logo.sh
               ./query_logo.sh 
               
 First Output of the script: 
